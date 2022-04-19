@@ -19,4 +19,5 @@ sudo python3 dedsecsms.py
 ```
 Parrot os
 Kali linux
+termux app (android)
 ```
