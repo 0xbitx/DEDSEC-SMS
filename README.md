@@ -6,6 +6,15 @@
 
 #### DEDSEC SMS IS A SMS TOOL WITH 1 FREE TEXT A DAY - SEND ANONYMOUS SMS
 
+## Features:
+
+- This Is A Free Version.
+- Super-fast Mesage Sending.
+- International Message Sending available.
+- You Can Send Only One Message Per Day.
+- Messaging Anonymously.
+- Easy to use and embed in code.
+
 ### INSTALL
 ```
 git clone https://github.com/0xbitx/DEDSEC-SMS.git
